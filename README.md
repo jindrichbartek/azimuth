@@ -4,7 +4,7 @@ Azimuth is a simple, elegant, and fast CMS built using meteor.js.
 
 This is the tracking repository for the various Meteorite packages that make up Azimuth.  If you'd just like to get running with Azimuth, visit the [home page](http://azimuthc.ms/) for simple instructions.
 
-If you'd like to run Azimuth from git, clone this repository (make sure to clone using `git clone --recursive https://github.com/mcrider/azimuth.git` or otherwise initialize the submodules in `/packages`) and keep on reading...
+If you'd like to run Azimuth *** version 0.2.0 (for meteor v0.7.2 or older) *** from git, clone this repository (make sure to clone using `git clone --recursive https://github.com/jindrichbartek/azimuth.git` or otherwise initialize the submodules in `/packages`) and keep on reading...
 
 ***Note: Azimuth is currently in early alpha; I'm still working out code design and many features are not yet implemented.***
 
