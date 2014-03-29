@@ -1,12 +1,12 @@
 [submodule "packages/azimuth-core"]
 	path = packages/azimuth-core
-	url = https://github.com/mcrider/azimuth-core.git
+	url = https://github.com/jindrichbartek/azimuth-core
 [submodule "packages/azimuth-theme-bootstrap-flatBlue"]
 	path = packages/azimuth-theme-bootstrap-flatBlue
 	url = https://github.com/mcrider/azimuth-theme-bootstrap-flatBlue.git
 [submodule "packages/azimuth-views-bootstrap"]
 	path = packages/azimuth-views-bootstrap
-	url = https://github.com/mcrider/azimuth-views-bootstrap.git
+	url = https://github.com/jindrichbartek/azimuth-views-bootstrap.git
 [submodule "packages/azimuth-views-foundation"]
 	path = packages/azimuth-views-foundation
 	url = https://github.com/mcrider/azimuth-views-foundation.git
