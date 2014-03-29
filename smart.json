@@ -1,23 +1,10 @@
 {
-  "meteor": {
-    "git": "https://github.com/meteor/meteor.git",
-    "branch": "master"
-  },
   "packages": {
     "azimuth-core": {
       "path": "../azimuth/packages/azimuth-core"
     },
     "azimuth-views-bootstrap": {
       "path": "../azimuth/packages/azimuth-views-bootstrap"
-    },
-    "azimuth-views-foundation": {
-      "path": "../azimuth/packages/azimuth-views-foundation"
-    },
-    "azimuth-theme-bootstrap-flatBlue": {
-      "path": "../azimuth/packages/azimuth-theme-bootstrap-flatBlue"
-    },
-    "azimuth-theme-foundation-simpleWhite": {
-      "path": "../azimuth/packages/azimuth-theme-foundation-simpleWhite"
     }
   }
 }

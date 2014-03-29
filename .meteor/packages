@@ -11,3 +11,6 @@ jquery
 less
 spiderable
 standard-app-packages
+azimuth-views-bootstrap
+azimuth-core
+iron-router
